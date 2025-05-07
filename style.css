@@ -1,0 +1,17 @@
+body {
+	background-color: #2F7AE5;
+	font-family: "Sans-serif";
+	text-align: center;
+}
+header {
+	padding: 2em;
+	text-align: center;
+	background-color: cyan;
+	size: 1em;
+}
+footer {
+	padding: 1em;
+	text-align: center;
+	size: 1em;
+	background-color: cyan;
+}
